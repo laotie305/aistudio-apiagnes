@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Image Analyzer",
+  "description": "Upload and analyze images, fetch and summarize webpage content, and analyze video flows using Agnes-2.0-Flash and Gemini-3.5-Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
